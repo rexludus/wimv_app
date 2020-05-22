@@ -1,5 +1,3 @@
-# layout_samples
-
 A new Flutter project.
 
 ## Getting Started
